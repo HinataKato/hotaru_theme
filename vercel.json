@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "https://vpstz.lideserve.top/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "https://vpstz.lideserve.top/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "https://vpstz.lideserve.top/map"
+        },
+        {
+            "src": "/i",
+            "dest": "https://vpstz.lideserve.top/i"
+        },
+        {
+            "src": "/report",
+            "dest": "https://vpstz.lideserve.top/report"
+        }
+    ]
+}
